@@ -1,0 +1,14 @@
+node_modules/
+dist/
+.vite/
+.qa/
+.openai/
+.env*
+!.env.example
+*.log
+.DS_Store
+# Licensed exercise media is deliberately not redistributed by this project.
+public/images/
+public/videos/
+*backup*.json
+*recovery*.json
